@@ -1,0 +1,18 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+:root {
+	--Marineblue: rgb(2, 41, 90);
+	--MarineblueHover: hsl(213, 93%, 30%);
+	--Purplishblue: rgb(71, 61, 255);
+	--Pastelblue: rgb(173, 190, 255);
+	--Lightblue: rgb(191, 226, 253);
+	--Strawberryred: rgb(237, 53, 72);
+	--Coolgray: rgb(150, 153, 171);
+	--Lightgray: rgb(214, 217, 230);
+	--Magnolia: rgb(240, 246, 255);
+	--Alabaster: rgb(250, 251, 255);
+	--White: rgb(255, 255, 255);
+	--a: rgb(248, 249, 254);
+}
